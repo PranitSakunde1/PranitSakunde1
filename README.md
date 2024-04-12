@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java new features
 - 💞️ I’m looking to collaborate on Java reactJS
 - 📫 How to reach me: +91 9145130014
-- 😄 Pronouns: he/hi
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Once I start talking I never shut up... :P
 
 <!---
